@@ -1,0 +1,2 @@
+C:\UMAR_PERSONAL\_WorkSpace\SpeechRecognition\obj\Release\SpeechRecognition.pcfproj.AssemblyReference.cache
+C:\UMAR_PERSONAL\_WorkSpace\SpeechRecognition\obj\Release\SpeechRecognition.pcfproj.CoreCompileInputs.cache
